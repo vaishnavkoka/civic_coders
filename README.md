@@ -101,7 +101,7 @@ This dashboard addresses these gaps by providing:
 └─────────────────────────────────────────────────────────────┘
                             ↓
 ┌─────────────────────────────────────────────────────────────┐
-│               DECISION SUPPORT SYSTEM (DDS)                  │
+│               DECISION SUPPORT SYSTEM (DSS)                  │
 ├─────────────────────────────────────────────────────────────┤
 │ • Health Advisory Generation                                 │
 │   - Risk level assessment                                    │
@@ -224,7 +224,7 @@ This dashboard addresses these gaps by providing:
 - **Activity guidelines**: Indoor/outdoor, exercise, travel
 - **Real-time advisory updates** based on AQI changes
 
-### 9. **Decision Support System (DDS)** 📋
+### 9. **Decision Support System (DSS)** 📋
 - **Automated policy recommendations** per ward
 - **Source-specific action items**:
   - **Traffic**: Odd-even restrictions, public transport boost
@@ -612,7 +612,7 @@ AQI is calculated as the **maximum sub-index** among all pollutants, with PM2.5 
 
 ---
 
-## 💡 Decision Support System (DDS)
+## 💡 Decision Support System (DSS)
 
 ### Health Advisory Generation
 
