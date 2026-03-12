@@ -1257,8 +1257,6 @@ Consistent 6-level AQI color scheme throughout the dashboard:
 
 ## 👥 Contributors
 
-## 👥 Contributors
-
 ### 🏷️ Team Name
 
 **🚀 civic_coders**
