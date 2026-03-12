@@ -1257,21 +1257,25 @@ Consistent 6-level AQI color scheme throughout the dashboard:
 
 ## 👥 Contributors
 
-### Team Name
-**civic_coders**
+## 👥 Contributors
 
-### Team Members
-1. **Vaishnav Koka**  
-   📧 vaishnav.koka@iitgn.ac.in  
+### 🏷️ Team Name
 
-2. **Jigar Mahedu**  
-   📧 jigar.mahedu@iitgn.ac.in  
+**🚀 civic_coders**
 
-3. **Jaya Chaudhary**  
-   📧 jaya.chaudhary@iitgn.ac.in  
+### 💻 Team Members
 
-4. **Prince Vats**  
-   📧 prince.vats@iitgn.ac.in
+| Name               | Email                                                              |
+| ------------------ | ------------------------------------------------------------------ |
+| **Vaishnav Koka**  | 📧 [vaishnav.koka@iitgn.ac.in](mailto:vaishnav.koka@iitgn.ac.in)   |
+| **Jigar Mahedu**   | 📧 [jigar.mahedu@iitgn.ac.in](mailto:jigar.mahedu@iitgn.ac.in)     |
+| **Jaya Chaudhary** | 📧 [jaya.chaudhary@iitgn.ac.in](mailto:jaya.chaudhary@iitgn.ac.in) |
+| **Prince Vats**    | 📧 [prince.vats@iitgn.ac.in](mailto:prince.vats@iitgn.ac.in)       |
+
+---
+
+✨ *Built with collaboration and innovation by Team civic_coders.*
+
    
 Developed as part of the Real-Time Air Quality Monitoring Dashboard project.
 
