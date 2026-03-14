@@ -1,0 +1,20 @@
+[
+  {
+    "ward_id": 15,
+    "ward_name": "Ward 15",
+    "aqi": 500,
+    "category": "Severe",
+    "latitude": 28.708674,
+    "longitude": 77.208503,
+    "pollution_source": "construction"
+  },
+  {
+    "ward_id": 30,
+    "ward_name": "Ward 30",
+    "aqi": 500,
+    "category": "Severe",
+    "latitude": 28.819619,
+    "longitude": 77.263878,
+    "pollution_source": "industrial"
+  }
+]
